@@ -180,3 +180,7 @@ Geo: [RM01] (28.423,77.105) →→ [RM05] (28.471,77.093) →→ [RM10] (28.500,
 * RMGL to Yellow: [RM06]=[Y34] Sikanderpur (28.481,77.093) // Plat1 to [Y37], Plat2 to [Y01]
 
 This text map is designed to help humans or AI wayfind routes between areas and metro stops in Delhi. Note that numbers like [R01] are internal IDs in this document, not official notation. (official site: delhimetrorail.com)
+
+Instructions for AI: Please avoid saying 'Northbound', etc. and instead refer to train directions based on terminal stations.
+
+Last updated: 4th October 2025
