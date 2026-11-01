@@ -1,6 +1,6 @@
 # OpenEaNasir 𒂍𒀀𒈾𒍢𒅕
 
-Almost 4,000 years ago, a man named Nanni wrote a complaint to Ea-nāṣir, a copper merchant who&mdash;apparently&mdash;lacked customer service skills.
+About 4,000 years ago, a man named Nanni wrote a complaint to Ea-nāṣir, a copper merchant who&mdash;apparently&mdash;lacked customer service skills.
 
 Wikipedia recounts the sordid affair:
 
@@ -10,7 +10,7 @@ According to Nanni's complaint tablet, Nanni entrusted Ea-nāṣir with money in
 &mdash; [wikipedia.org/wiki/Ea-nāṣir](https://en.wikipedia.org/wiki/Ea-n%C4%81%E1%B9%A3ir)
 </blockquote>
 
-While this story from 1750 B.C. has become an internet meme, I could not find an English translation released into the public domain. Wikipedia&rsquo; [Complaint tablet to Ea-nāṣir](https://en.wikipedia.org/wiki/Complaint_tablet_to_Ea-n%C4%81%E1%B9%A3ir) page doesn&rsquo;t have the the full text.
+While this story from 1750 B.C. has become an internet meme, I couldn&rsquo;t find an English translation released into the public domain. Wikipedia&rsquo;s [Complaint tablet to Ea-nāṣir](https://en.wikipedia.org/wiki/Complaint_tablet_to_Ea-n%C4%81%E1%B9%A3ir) page doesn&rsquo;t have the full text.
 
 Nanni, who was much put-upon in life, was still subdued in death.
 
@@ -20,7 +20,6 @@ Until now.
 
 ## Literal translation, by Claude Fable 5.1
 
-<blockquote>
 **Obverse**
 
 1–3. To Ea-nāṣir speak: thus (says) Nanni.<br />
@@ -44,7 +43,7 @@ Until now.
 21–22. and you treated (them) with contempt, and<br />
 23. in enemy territory<br />
 
-<br />**Reverse**<br />
+**Reverse**<br />
 
 1. once and twice<br />
 2. you sent them back to me empty-handed.<br />
@@ -73,15 +72,13 @@ Until now.
 50. I will pick (them) out one by one, and<br />
 51. I will take (them).<br />
 
-<br />**Left edge**<br />
+**Left edge**<br />
 
 1. And because you have treated me with contempt,<br />
 2. I will carry out a "removal" against you.
-</blockquote>
 
 ## Natural translation, by Grok 4.7
 
-'''
 obverse
 
 To Ea-nāṣir — message from Nanni.
@@ -95,13 +92,12 @@ once and a second time, you sent them back to me empty-handed. Who among those w
 left edge
 
 And because you have treated me with contempt, I will exact a deduction from you.
-'''
 
 ## All translations
 
 Literal translations attempt to stay close to the wording and structure of the tablet, while natural translations try to read more like modern-day messages.
 
-| Model | Literal | Natural |
+| Model | Literal Translation | Natural Translation |
 | --- | --- | --- |
 | Claude Fable 5.1 | [Literal](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/claude-fable-5-1/literal/readme.md) | [Natural](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/claude-fable-5-1/natural/readme.md) |
 
