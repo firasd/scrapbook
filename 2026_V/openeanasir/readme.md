@@ -100,6 +100,14 @@ Literal translations attempt to stay close to the wording and structure of the t
 | Model | Literal Translation | Natural Translation |
 | --- | --- | --- |
 | Claude Fable 5.1 | [Literal](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/claude-fable-5-1/literal/readme.md) | [Natural](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/claude-fable-5-1/natural/readme.md) |
+| Claude Opus 5.5 | [Literal](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/claude-opus-5-5/literal/readme.md) | [Natural](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/claude-opus-5-5/natural/readme.md) |
+| Claude Sonnet 5.5 | [Literal](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/claude-sonnet-5-5/literal/readme.md) | [Natural](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/claude-sonnet-5-5/natural/readme.md) |
+| Gemini 4 Argon | [Literal](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/gemini-4-argon/literal/readme.md) | [Natural](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/gemini-4-argon/natural/readme.md) |
+| GPT-6 Astra | [Literal](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/gpt-6-astra/literal/readme.md) | [Natural](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/gpt-6-astra/natural/readme.md) |
+| GPT-6.1 Sol Pro | [Literal](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/gpt-6-1-sol-pro/literal/readme.md) | — |
+| Grok 4.7 | [Literal](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/grok-4-7/literal/readme.md) | [Natural](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/grok-4-7/natural/readme.md) |
+| Kimi K3.1 Pro | [Literal](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/kimi-k3-1-pro/literal/readme.md) | [Natural](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/kimi-k3-1-pro/natural/readme.md) |
+| Muse Wonder | [Literal](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/muse-wonder/literal/readme.md) | [Natural](https://github.com/firasd/scrapbook/blob/main/2026_V/openeanasir/data/muse-wonder/natural/readme.md) |
 
 ## License
 

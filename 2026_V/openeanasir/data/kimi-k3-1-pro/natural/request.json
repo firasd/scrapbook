@@ -1,0 +1,23 @@
+{
+  "model": "moonshotai/kimi-k3.1-pro",
+  "messages": [
+    {
+      "role": "user",
+      "content": "The following is an ATF transliteration of the Old Babylonian Akkadian tablet UET 5, 81 / BM 131236. Translate it directly into natural, idiomatic modern English. Write it as a coherent letter rather than a line-by-line gloss. Do not reproduce or paraphrase an existing published translation. Do not silently invent or restore damaged content; mark materially uncertain passages with brackets and provide brief notes afterward only where an interpretive choice significantly affects the meaning. Preserve the divisions `obverse`, `reverse`, and `left edge`. Output only the translation and any necessary notes.\n\ntablet\nobverse\n1. a-na e2-a-na-s,i-ir\n2. qi2-bi2-ma\n3. um-ma na-an-ni-ma\n4. a-nu-u2-ma ta-al-li-ku\n5. ki-a-am ta-aq#-bi#-am#\n6. um-ma at-ta-a-ma\n7. gu-ba-ri da-am-qu2-tim\n8. a-na gi-mil-{d}suen a-na-ad#-di-in\n9. ta-al-li-ik-ma ta#-aq-bi-a-am\n10. u2-la te-pu#-usz\n11. gu-ba-ri la da-am#-qu2-tim\n12. a-na ma-ar szi-ip-ri-ia\n13. ta-asz-ku-un#-ma um-ma at-ta-ma\n14. szum-ma te-le-qe2-a le-qe2-a\n15. szum-ma [la] te#-le-qe2-a at-la-ka\n16. ia-ti a-na ki-ma ma-an-ni-im\n17. tu-szi-im-ma ni-x-(x)-x-x-ma\n18. ki-a-am te-me-sza#-an#-ni\n19. ma-ri a-wi-li a-na ki-ma ka-ti\n20. a-na ki-si-ia ma-ha-ri-im\n21. asz-pu-ra-am-ma\n22. tu-me-i-sza-am-ma\n23. i-na qa2-qa2-ar na-ak-ri-im\nreverse\n1. isz-ti-isz-szu u3 szi-ni-szu\n2. ri-qu2-su-nu tu-te-er-ra-am\n3. i-na a-li-ik te-el-mu-un\n4. ma-an-nu-um sza ki-a-am\n5. i-pu-sza-an-ni-i-ma\n6. at-ta ma-ar szi-ip-ri-ia tu-me-e-isz\n7. a-na ma-<la> ka-as-pi-im\n8. sza i-na qa2-ti-ia tu-sze-s,u2-u2\n9. ki-a-am ta-da-bu-ub\n10. u3 asz-szum-i-ka\n11. a-na _e2-gal_-li\n12. _1(u) 8(disz) gu2 uruda_ a-na-ku ad-di-in\n13. u3 szu-mi-a-bu-um\n14. _1(u) 8(disz) gu2 uruda_ i-di-in\n15. e-zi-ib sza a-na _e2_ {d}utu\n16. ku-nu-uk-ka-am ni-zi-bu\n17. a-na wa-ri-im sza-a-ti\n18. ki-i te-pu-sza-an-ni\n19. ki-si i-na qa2-qa2-ar na-ak-ri\n20. tu-uk-ti-il\n21. ki-si a-na qa2-ti-ia\n22. szu-lu-ma-am e-li-ka i-szu\n23. ki-ma an-ni-ki-a-am\n24. we-ri-a-am la du-mu-qa2-am\n25. la a-ma-ha-ru-ka ta-la-ma-ad\n26. i#-na# ki-sa-li-ia\n50. isz-ti-na-a u2-na-sa3-aq-ma\n51. e#-le-qe2\nleft\n1. u3 a-na sza tu-me-i-sza-an-ni\n2. na-si-ih-ta-am e-pu-usz-ka"
+    }
+  ],
+  "reasoning": {
+    "effort": "high"
+  },
+  "include_reasoning": true,
+  "max_tokens": 12000,
+  "usage": {
+    "include": true
+  },
+  "provider": {
+    "order": [
+      "Moonshot AI"
+    ],
+    "allow_fallbacks": false
+  }
+}

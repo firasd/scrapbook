@@ -1,0 +1,21 @@
+{
+  "started_at": "2026-11-01T18:47:20.231513+00:00",
+  "elapsed_seconds": 70.84807219699906,
+  "http_status": 200,
+  "response_headers": {
+    "Date": "Sun, 01 Nov 2026 18:47:25 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Server-Timing": "cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=4952",
+    "Access-Control-Allow-Origin": "*",
+    "X-Generation-Id": "gen-1793558840-15WlFTvPEUIPosBqJj15",
+    "access-control-expose-headers": "X-Generation-Id,X-Provider-Name,request-id,cf-ray",
+    "Permissions-Policy": "payment=(self \"https://checkout.stripe.com\" \"https://connect-js.stripe.com\" \"https://js.stripe.com\" \"https://*.js.stripe.com\" \"https://hooks.stripe.com\")",
+    "Referrer-Policy": "no-referrer, strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Server": "cloudflare",
+    "CF-RAY": "a53d113e7f22a7fe-DEL",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  }
+}

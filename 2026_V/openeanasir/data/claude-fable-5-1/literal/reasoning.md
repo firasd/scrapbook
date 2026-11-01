@@ -7,4 +7,3 @@ I'm going through the rest of the obverse, where Ea-nasir's lines about the copp
 I'm checking the remaining obverse lines, where Ea-nasir's complaint about the sealed document and the "removal" against him comes up, and I'm working out the reading of the verb in line 17 and the phrase "in my courtyard."
 
 I'm now setting the translation itself: I'll give the remaining lines and produce the full rendering, keeping the line numbering as the ATF has it.
-
