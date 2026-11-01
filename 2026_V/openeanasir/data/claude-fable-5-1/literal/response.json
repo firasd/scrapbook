@@ -1,0 +1,55 @@
+{
+  "id": "gen-1793561487-AXOYcczYkADqhzp90KxM",
+  "object": "chat.completion",
+  "created": 1793561487,
+  "model": "anthropic/claude-fable-5.1",
+  "provider": "Anthropic",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "end_turn",
+      "message": {
+        "role": "assistant",
+        "content": "**Obverse**\n\n1–3. To Ea-nāṣir speak: thus (says) Nanni.\n4. Now, when you came,\n5. you spoke to me as follows,\n6. thus you (said):\n7. \"Good ingots\n8. I will give to Gimil-Sîn.\"\n9. You went (away), and (though) you had told me (this),\n10. you did not do (it).\n11. Ingots that were not good\n12. you set before my messenger,\n13. and thus you (said):\n14. \"If you (pl.) will take (them), take (them);\n15. if you will [not] take (them), go away!\"\n16. For whom\n17. do you take me, that ... [...]\n18. and you treat me thus with contempt?\n19. Gentlemen like yourself\n20. I sent to receive my money-bag,\n21–22. and you treated (them) with contempt, and\n23. in enemy territory\n\n**Reverse**\n\n1. once and twice\n2. you sent them back to me empty-handed.\n3. Among those who travel to Tilmun,\n4–5. who is there who has acted toward me in this way?\n6. (Only) you treat my messenger with contempt.\n7. On account of the full (amount of) silver\n8. which you took out of my hand,\n9. you talk like this.\n10. Moreover, on your account\n11. to the palace\n12. I myself gave 18 talents of copper,\n13. and Šumi-abum\n14. gave 18 talents of copper,\n15–16. apart from the sealed document which we deposited in the temple of Šamaš.\n17. For that copper,\n18. how you have treated me!\n19. My money-bag in enemy territory\n20. you have withheld.\n21. (To return) my money-bag into my hand\n22. in full — that is incumbent upon you.\n23. (Know) that here\n24. copper that is not good\n25. I will not accept from you — learn (this)!\n26. In my courtyard\n50. I will pick (them) out one by one, and\n51. I will take (them).\n\n**Left edge**\n\n1. And because you have treated me with contempt,\n2. I will carry out a \"removal\" against you.\n\n**Notes**\n\n- Obv. 7, 11: *gubāru* here rendered \"ingots\" (lumps/bars of copper).\n- Obv. 16–17: *tušīm-ma* taken as \"you reckoned/regarded (me)\"; the following *ni-x-(x)-x-x-ma* is damaged and left untranslated.\n- Obv. 19: literally \"sons of gentlemen like you.\"\n- Rev. 3: Telmun = Tilmun/Dilmun.\n- Rev. 7: *ma-<la>* restored by the editor; \"the full amount of silver which you took out of my hand,\" i.e., which I paid you.\n- Rev. 15–16: literally \"apart from what, to the house of Šamaš, we left a seal(ed document).\"\n- Rev. 20: *tukti'il* from *kullu*, \"to hold back, withhold.\"\n- Rev. 22: *šulumam ... elika išu*, literally \"it has (a claim) upon you (for) full (return).\"\n- Rev. 50–51: line numbers follow the ATF as given.\n- Left edge 2: *nasiḫtam epuška*, literally \"I will do a removal/picking-out against you\"; the exact sense (rejection of substandard pieces, or expulsion) is uncertain.",
+        "refusal": null,
+        "reasoning": "I'm working from the ATF directly rather than leaning on Oppenheim's rendering, starting with the opening lines of Nanni's letter to Ea-nasir. So far I've got the greeting and the start of Ea-nasir's quoted complaint about good ingots going to Gimil-Sî.\n\nNow I'm going through the remaining lines of the letter, the reverse side included, checking Ea-nasir's dismissive remarks about the ingots and the silver and copper that were paid.\n\nI'm going through the rest of the obverse, where Ea-nasir's lines about the copper that isn't good and the purse being withheld come up, and then turning to the reverse and the short note on the left edge.\n\nI'm checking the remaining obverse lines, where Ea-nasir's complaint about the sealed document and the \"removal\" against him comes up, and I'm working out the reading of the verb in line 17 and the phrase \"in my courtyard.\"\n\nI'm now setting the translation itself: I'll give the remaining lines and produce the full rendering, keeping the line numbering as the ATF has it.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "I'm working from the ATF directly rather than leaning on Oppenheim's rendering, starting with the opening lines of Nanni's letter to Ea-nasir. So far I've got the greeting and the start of Ea-nasir's quoted complaint about good ingots going to Gimil-Sî.\n\nNow I'm going through the remaining lines of the letter, the reverse side included, checking Ea-nasir's dismissive remarks about the ingots and the silver and copper that were paid.\n\nI'm going through the rest of the obverse, where Ea-nasir's lines about the copper that isn't good and the purse being withheld come up, and then turning to the reverse and the short note on the left edge.\n\nI'm checking the remaining obverse lines, where Ea-nasir's complaint about the sealed document and the \"removal\" against him comes up, and I'm working out the reading of the verb in line 17 and the phrase \"in my courtyard.\"\n\nI'm now setting the translation itself: I'll give the remaining lines and produce the full rendering, keeping the line numbering as the ATF has it.\n\n",
+            "format": "anthropic-claude-v1",
+            "index": 0,
+            "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1mYWJsZS01LjEtMjAyNjA4MzF8YW50aHJvcGljIn0"
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1397,
+    "completion_tokens": 2288,
+    "total_tokens": 3685,
+    "cost": 0.12837,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.12837,
+      "upstream_inference_prompt_cost": 0.01397,
+      "upstream_inference_completions_cost": 0.1144
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1196,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}
